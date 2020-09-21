@@ -9,7 +9,7 @@ def toadstool
 end
 
 def link 
-  says = "It's Dangerou To Go Alone! Take This."
+  says = "It's Dangerous To Go Alone! Take This."
   puts says
 end
 
